@@ -4,7 +4,7 @@ Reversi Game is an individual coding project written in C programming languange.
 
 - Reversi Game users can:
     - Configurate the board dimension.
-    - Choose black/white chess to play with, while black went first.
+    - Choose black/white chess to play with, while black goes first.
     - Test the strength of other AI Reversi game program by playing against them.
 
 ## Available Scripts
